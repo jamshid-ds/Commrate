@@ -8,7 +8,7 @@ This project can be added to the comment section of any online store. The progra
 <br>
 
 1. Imports necessary libraries for data manipulation, feature extraction, model training, and evaluation.
-<br>
+
 2. Reads a CSV file named "train.csv" and selects two columns: 'comment' and 'reting'.
 <br>
 3. Renames the 'reting' column to 'rating'.
