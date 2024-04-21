@@ -6,9 +6,8 @@ Why exactly is the project:
 This project can be added to the comment section of any online store. The program can automatically evaluate the comment. 5-most positive, 1-most negative. The correct model is working with some errors. Our future plans: Taking our idea public and customizing this model for any language. Currently, the model works only in Russian.
 <br>
 <br>
-
 1. Imports necessary libraries for data manipulation, feature extraction, model training, and evaluation.
-
+<br>
 2. Reads a CSV file named "train.csv" and selects two columns: 'comment' and 'reting'.
 <br>
 3. Renames the 'reting' column to 'rating'.
@@ -26,6 +25,7 @@ This project can be added to the comment section of any online store. The progra
 9. Evaluates the model's accuracy on the testing data.
 <br>
 10. Creates and displays a confusion matrix to visualize the model's performance on each class.
+
 <br>
 <br>
 <br>
